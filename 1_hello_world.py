@@ -10,3 +10,4 @@
 # 3. Output
 print('Hello Tunghai University!')
 print("I like Professor Kim's class")
+print("I am Andrew, an exchange student from Indonesia!")
